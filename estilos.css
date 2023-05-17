@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@500&display=swap');
+body {
+    background-color: #e8aa00; /* color de fondo de toda la página */ 
+    color:#511f1f; /* color de letra de toda la página */
+    font-family: 'Teko', sans-serif;
+}
+
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 900; /* peso del contorno de la letra */
+font-size: 50px;
+}
+
+table {
+    font-size: 50px;
+    border: 2px;
+    border-color: #511f1f;
+}
+
+img {
+    width: 120px; /*  width: ancho / height: alto*/ 
+}
+
+th {
+    border: 2px;
+    border: #511f1f ;
+}
+
