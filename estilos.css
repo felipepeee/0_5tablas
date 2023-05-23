@@ -3,6 +3,7 @@ body {
     background-color: #e8aa00; /* color de fondo de toda la página */ 
     color:#511f1f; /* color de letra de toda la página */
     font-family: 'Teko', sans-serif;
+    
 }
 
 
@@ -14,9 +15,11 @@ font-size: 50px;
 }
 
 table {
+display: flex;
     font-size: 50px;
     border: 2px;
     border-color: #511f1f;
+    
 }
 
 img {
@@ -28,3 +31,9 @@ th {
     border: #511f1f ;
 }
 
+footer{
+    display: flex;
+justify-content: center;
+padding: 200px;
+
+}
